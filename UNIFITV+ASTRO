@@ -1,15 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:81/PlayReady/rightsmanager.asmx?deviceId=ZjM3N2JhNmMtNzg1Ni0zMDBjLTg5NDQtYWQ5NTI3NjgwMmZk
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key="https://ottweb.hypp.tv:8064?deviceId=ZjM3N2JhNmMtNzg1Ni0zMDBjLTg5NDQtYWQ5NTI3NjgwMmZk"
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
-http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZjM3N2JhNmMtNzg1Ni0zMDBjLTg5NDQtYWQ5NTI3NjgwMmZk
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
 http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd
+
+
